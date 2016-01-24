@@ -1,0 +1,28 @@
+name: social-ads
+favicon: null
+layout_spectrum: 0.8771592457778752
+typography_spectrum: 0.21467230655252934
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7385259456932545
+  lightness: 0.13431168696843088
+  saturation: 0.4134793598204851
+  rhythmicContrast: 0.3273909082636237
+purpose: []
